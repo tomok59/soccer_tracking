@@ -1,3 +1,3 @@
 # soccer_tracking
 
-![Soccer Tracking Example](images/clip_soccer_tracking.gif)
+![Soccer Tracking Example](clip_soccer_tracking.gif)
